@@ -1,0 +1,6 @@
+@lippi_homework_HostAddress = http://localhost:5287
+
+GET {{lippi_homework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

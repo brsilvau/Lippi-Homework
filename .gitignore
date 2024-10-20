@@ -1,0 +1,27 @@
+# Archivos y carpetas de compilación
+bin/
+obj/
+
+# Configuraciones de usuario específicas de VS Code/Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales
+*.log
+
+# Dependencias de NuGet descargadas
+packages/
+.nuget/
+
+# Archivos temporales de depuración y de generación
+*.pdb
+*.cache
+*.ilk
+*.tmp
+*.log
+
+# Configuraciones locales
+appsettings.Development.json
