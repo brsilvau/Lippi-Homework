@@ -14,13 +14,21 @@ Este proyecto consiste en una API RESTful para gestionar productos. Se ha utiliz
 ## Como ejecutar el proyecto:
 
 - **Restaurar dependencias**: 
-``dotnet restore``
+  ```
+  dotnet restore
+  ```
 - **Ejecutar la aplicación**:
-``dotnet run``
+  ```
+  dotnet run
+  ```
 - **Acceder a la documentacion**:
-``http://localhost:5287/swagger``
+  ```
+  http://localhost:5287/swagger
+  ```
 - **Ejecutar pruebas unitarias y de integracion**:
-``dotnet test``
+  ```
+  dotnet test
+  ```
 
 # Prueba de Evaluación:
 ## Creación de una API REST con C# y .NET Core
